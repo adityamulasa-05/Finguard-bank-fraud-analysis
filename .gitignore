@@ -1,0 +1,4 @@
+finguard_database.xlsx 
+__pycache__/ 
+*.pyc 
+.env 
